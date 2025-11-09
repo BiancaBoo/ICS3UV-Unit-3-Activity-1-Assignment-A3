@@ -2,7 +2,7 @@
 * Author: Bianca Bertinato
 * Version: 1.0.0
 * Date: 2025-11-08
-* This program displays the multiplication table of 9 from 0 to 12 without using loops.
+* This program displays the multiplication table of 9 from 0 to 12.
 */
 
 // CONSTANT

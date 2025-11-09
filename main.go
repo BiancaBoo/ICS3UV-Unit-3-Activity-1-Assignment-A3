@@ -15,7 +15,7 @@ func main() {
     const NUMBER int = 9
 
     // PROCESS & OUTPUT
-    fmt.Println("MULTIPLICATION TABLE OF", NUMBER, ":")
+    fmt.Println("MULTIPLICATION TABLE OF", NUMBER,":")
 
     fmt.Println(NUMBER, "x 0 =", NUMBER*0)
     fmt.Println(NUMBER, "x 1 =", NUMBER*1)
